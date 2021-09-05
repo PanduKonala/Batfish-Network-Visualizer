@@ -16,7 +16,7 @@ Step1: Make sure the Batfish docker is up and running.
 <br/>
 Step2: Intall the requirments.txt file using pip i.e. pip install -r requirements.txt
 <br/>
-Step3: Prepare a directory structure as following and make sure the configuration files end with "cfg" as an extension.
+Step3: Prepare a directory structure as shown in the image located at Images --> directory_structure.jpg and make sure the configuration files end with "cfg" as an extension.
 <br/>
 Step4: Run the tool --> python3 batfish_network_visualizer_v1.py
 <br/>
