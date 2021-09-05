@@ -22,7 +22,7 @@ Step4: Run the tool --> python3 batfish_network_visualizer_v1.py
 <br/>
 # Caution if theres an errors such as module missing while execution then please install that module using pip --> pip install {module_name}
 <br/>
-Step5: After few seconds the tool will generate the output in the "results" directory.
+Step5: After few seconds the tool will generate the output in the "results" directory which is present along with snapshot directory.
 <br/>
 Step6: Import the file "network_map.drawio" to https://app.diagrams.net for visualization.
 
