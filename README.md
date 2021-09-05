@@ -1,6 +1,6 @@
 ![](https://github.com/PanduKonala/PanduKonala/blob/main/header_.png)
 <br>
-# Batfish-Network-Visulizer
+# Batfish-Network-Visualizer 
 ## Overview
 > An Open Source python tool which helps the user / learners to understand the configurations provided to Batfish by generating a network diagram. This tool uses [Pybatfish](https://github.com/batfish/pybatfish) and [N2G](https://pypi.org/project/N2G/) modules for visualization of the network from configuration files.
 ## Prerequisites
