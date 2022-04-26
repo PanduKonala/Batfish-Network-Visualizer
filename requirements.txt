@@ -27,7 +27,7 @@ ordered-set==4.0.2
 pandas==0.25.3
 passlib==1.7.2
 pathspec==0.8.0
-pybatfish==2020.8.11.600
+pybatfish==2021.7.9.974
 pylint==2.6.0
 python-dateutil==2.8.1
 python-igraph==0.8.2
