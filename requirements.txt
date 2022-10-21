@@ -28,7 +28,7 @@ pandas==0.25.3
 passlib==1.7.2
 pathspec==0.8.0
 pybatfish==2021.7.9.974
-pylint==2.6.0
+pylint==2.7.0
 python-dateutil==2.8.1
 python-igraph==0.8.2
 pytz==2020.1
@@ -42,6 +42,6 @@ texttable==1.6.3
 toml==0.10.1
 typed-ast==1.4.1
 typing-extensions==3.7.4.3
-urllib3==1.25.10
+urllib3==1.26.5
 wrapt==1.12.1
 xlrd==1.2.0
