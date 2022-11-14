@@ -21,11 +21,11 @@ mccabe==0.6.1
 mypy-extensions==0.4.3
 N2G==0.1.2
 netconan==0.11.2
-numpy==1.19.2
+numpy==1.22.2
 openpyxl==3.0.5
 ordered-set==4.0.2
 pandas==0.25.3
-passlib==1.7.2
+passlib==1.7.3
 pathspec==0.8.0
 pybatfish==2021.7.9.974
 pylint==2.6.0
